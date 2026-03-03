@@ -18,7 +18,7 @@ These insights can directly inform retention strategy, personalized marketing ca
 - **Tableau Public** — interactive 4-page dashboard
 
 ## Dashboard
-🔗 [Live Tableau Dashboard](https://public.tableau.com/app/profile/harsh.mudgal/viz/E-CommerceCLVRetentionAnalysis/RevenueTrends?publish=yes)
+🔗 [Live Tableau Story Dashboard](https://public.tableau.com/app/profile/harsh.mudgal/viz/E-CommerceCLVRetentionAnalysis/E-CommerceCLVRetentionAnalysis?publish=yes)
 
 ## Project Structure
 - `python/generate_data.py` — synthetic e-commerce data generation (5,000 customers, ~50K orders)
