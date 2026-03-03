@@ -2,14 +2,15 @@
 
 ## Overview
 End-to-end customer analytics system analyzing 3 years of e-commerce 
-transaction data across 5,000 customers. Built RFM segmentation, 
-predictive CLV modeling, and cohort retention analysis.
+transaction data across 5,000 customers. Built RFM segmentation (8 customer segments), predictive CLV modeling using Random Forest, and cohort-based retention analysis visualized in Tableau.
 
 ## Key Findings
 - Top 20% of customers generate 80% of total revenue (Pareto principle confirmed)
 - 59.3% of customers churn after their first purchase
 - Only 31.7% of customers remain active at month 6
 - Champions spend 21x more than Lost customers ($6,604 vs $306 avg)
+
+These insights can directly inform retention strategy, personalized marketing campaigns, and high-value customer targeting.
 
 ## Tech Stack
 - **Python** — data generation, RFM scoring, CLV modeling (scikit-learn Random Forest)
@@ -27,12 +28,14 @@ predictive CLV modeling, and cohort retention analysis.
 - `sql/rfm_queries.sql` — SQL equivalents of all analysis (window functions, CTEs, cohort query)
 
 ## How to Run
+
+```bash
 pip install pandas numpy scikit-learn
 cd python
 python run_all.py
+```
 
 ## RFM Segments
-
 | Segment        | Customers | Avg CLV | Avg Orders |
 | -------------- | --------- | ------- | ---------- |
 | Champion       | 30.5%     | $6,604  | 26.7       |
