@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price
+ELE_001,Electronics Product 1,Electronics,238.86
+ELE_002,Electronics Product 2,Electronics,1071.57
+ELE_003,Electronics Product 3,Electronics,1276.05
+ELE_004,Electronics Product 4,Electronics,413.1
+ELE_005,Electronics Product 5,Electronics,1340.35
+ELE_006,Electronics Product 6,Electronics,1394.1
+ELE_007,Electronics Product 7,Electronics,671.48
+ELE_008,Electronics Product 8,Electronics,891.26
+ELE_009,Electronics Product 9,Electronics,1035.69
+ELE_010,Electronics Product 10,Electronics,278.84
+CLO_001,Clothing Product 1,Clothing,160.78
+CLO_002,Clothing Product 2,Clothing,185.78
+CLO_003,Clothing Product 3,Clothing,243.76
+CLO_004,Clothing Product 4,Clothing,185.17
+CLO_005,Clothing Product 5,Clothing,100.26
+CLO_006,Clothing Product 6,Clothing,166.51
+CLO_007,Clothing Product 7,Clothing,204.09
+CLO_008,Clothing Product 8,Clothing,94.94
+CLO_009,Clothing Product 9,Clothing,283.55
+CLO_010,Clothing Product 10,Clothing,290.08
+HOM_001,Home & Garden Product 1,Home & Garden,438.35
+HOM_002,Home & Garden Product 2,Home & Garden,431.15
+HOM_003,Home & Garden Product 3,Home & Garden,473.21
+HOM_004,Home & Garden Product 4,Home & Garden,317.77
+HOM_005,Home & Garden Product 5,Home & Garden,171.82
+HOM_006,Home & Garden Product 6,Home & Garden,140.13
+HOM_007,Home & Garden Product 7,Home & Garden,223.43
+HOM_008,Home & Garden Product 8,Home & Garden,244.88
+HOM_009,Home & Garden Product 9,Home & Garden,200.63
+HOM_010,Home & Garden Product 10,Home & Garden,172.48
+SPO_001,Sports Product 1,Sports,66.49
+SPO_002,Sports Product 2,Sports,255.18
+SPO_003,Sports Product 3,Sports,261.85
+SPO_004,Sports Product 4,Sports,160.25
+SPO_005,Sports Product 5,Sports,70.27
+SPO_006,Sports Product 6,Sports,248.7
+SPO_007,Sports Product 7,Sports,251.04
+SPO_008,Sports Product 8,Sports,97.61
+SPO_009,Sports Product 9,Sports,39.42
+SPO_010,Sports Product 10,Sports,288.92
+BOO_001,Books Product 1,Books,25.66
+BOO_002,Books Product 2,Books,52.96
+BOO_003,Books Product 3,Books,54.79
+BOO_004,Books Product 4,Books,29.65
+BOO_005,Books Product 5,Books,12.03
+BOO_006,Books Product 6,Books,52.12
+BOO_007,Books Product 7,Books,59.56
+BOO_008,Books Product 8,Books,55.35
+BOO_009,Books Product 9,Books,47.29
+BOO_010,Books Product 10,Books,14.89
+BEA_001,Beauty Product 1,Beauty,43.83
+BEA_002,Beauty Product 2,Beauty,127.53
+BEA_003,Beauty Product 3,Beauty,18.24
+BEA_004,Beauty Product 4,Beauty,132.35
+BEA_005,Beauty Product 5,Beauty,25.92
+BEA_006,Beauty Product 6,Beauty,111.04
+BEA_007,Beauty Product 7,Beauty,48.96
+BEA_008,Beauty Product 8,Beauty,105.87
+BEA_009,Beauty Product 9,Beauty,101.64
+BEA_010,Beauty Product 10,Beauty,27.16

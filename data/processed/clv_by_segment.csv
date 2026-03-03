@@ -1,0 +1,9 @@
+segment,customers,avg_clv,total_clv,avg_order_value
+Potential Loyalist,7,10464.13,73248.89,575.74
+New Customer,147,7171.07,1054147.42,205.82
+Champion,1516,6606.32,10015183.04,240.11
+Loyal Customer,829,4476.32,3710869.25,216.37
+Others,859,3302.15,2836542.57,242.64
+Needs Attention,300,1804.69,541406.45,255.4
+At Risk,24,1722.9,41349.55,225.17
+Lost,1294,1046.5,1354170.36,148.41
